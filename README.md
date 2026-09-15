@@ -269,7 +269,6 @@ customer-churn-prediction/
 ├── requirements.txt
 ├── .gitignore
 ├── README.md
-├── VIVA_PREPARATION.md
 └── LICENSE
 ```
 
@@ -322,5 +321,4 @@ reported here exactly.
 
 ---
 
-*Built as an academic Machine Learning course project. See
-`VIVA_PREPARATION.md` for anticipated viva questions and answers.*
+*Built as an academic Machine Learning course project.*
