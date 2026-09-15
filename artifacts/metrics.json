@@ -1,0 +1,24 @@
+{
+  "model_name": "LogisticRegression",
+  "threshold": 0.5499999999999999,
+  "test_set_size": 1409,
+  "train_set_size": 5634,
+  "metrics_at_default_threshold_0.5": {
+    "threshold": 0.5,
+    "accuracy": 0.7501774308019872,
+    "precision": 0.519434628975265,
+    "recall": 0.786096256684492,
+    "f1_score": 0.625531914893617,
+    "roc_auc": 0.8449921206954455,
+    "pr_auc": 0.6515219275608326
+  },
+  "metrics_at_optimized_threshold": {
+    "threshold": 0.5499999999999999,
+    "accuracy": 0.7665010645848119,
+    "precision": 0.5433526011560693,
+    "recall": 0.7540106951871658,
+    "f1_score": 0.631578947368421,
+    "roc_auc": 0.8449921206954455,
+    "pr_auc": 0.6515219275608326
+  }
+}
